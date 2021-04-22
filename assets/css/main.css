@@ -84,7 +84,7 @@ input, select, textarea {
 
 	body {
 		background-color: #183026;
-		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
+		background-image: url("images/overlay.png"), url("../../images/1st-platoon.jpg");
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
 		background-position: top left, center 0;
@@ -2095,10 +2095,10 @@ input, select, textarea {
 		color: #fff;
 		text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 		text-align: center;
-		background: #601167 url("images/scratch.png") bottom center no-repeat;
+		background: #601167 url("images/camouflage.png") bottom center no-repeat;
 		padding: 5em 0 5em 0;
 		margin: 0;
-		background-size: 125% auto;
+		background-size: 100% auto;
 	}
 
 		#banner .button {
@@ -2239,7 +2239,7 @@ input, select, textarea {
 
 			body {
 				background-color: #203936;
-				background-image: url("images/overlay.png"), url("../../images/bg-alt.jpg");
+				background-image: url("images/overlay.png"), url("../../images/1st-platoon-alt.jpg");
 				background-repeat: repeat, no-repeat;
 				background-size: auto, cover;
 				background-position: top left, top center;
